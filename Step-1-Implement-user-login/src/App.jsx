@@ -1,4 +1,4 @@
-import { SignedIn, SignedOut, SignInButton, SignOutButton, UserProfile } from '@asgardeo/react'
+import { SignedIn, SignedOut, SignInButton, SignOutButton } from '@asgardeo/react'
 import './App.css'
 
 function App() {
